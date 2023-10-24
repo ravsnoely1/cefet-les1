@@ -30,6 +30,7 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/hashi
 sudo apt update
 ```
 **Está com problemas?**
+
 Envie um problema no repositório GitHub do produto relevante ou em https://discuss.hashicorp.com.
 
 ## Repositório de pacotes rpm
