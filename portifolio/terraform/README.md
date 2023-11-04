@@ -1,4 +1,4 @@
-## Instalando o Terraform:
+# Instalando o Terraform:
 **Repositório de pacotes debian**
 > Distribuições suportadas: Ubuntu, Debian
 
@@ -53,7 +53,7 @@ sudo yum install consul
 **[Opcional] Habilite o repositório de teste para versões de pré-lançamento**
 > Edite o arquivo repo em /etc/yum.repos.d/hashicorp.repo e defina enabled=1 para [hashicorp-test]
 
-## Verifique a instalação
+**Verifique a instalação**
 
 Verifique se a instalação funcionou abrindo uma nova sessão de terminal e listando os subcomandos disponíveis do Terraform.
 
@@ -79,7 +79,7 @@ terraform -help plan
 Envie um problema no repositório GitHub do produto relevante ou em https://discuss.hashicorp.com.
 
 
-## Criando estrutura padrão de pastas
+# Criando estrutura padrão de pastas
 Com o Terraform instalado na sua máquina, iremos iniciar a estrutura de pastas para seguirmos no nosso projeto
 
 ```
