@@ -78,3 +78,35 @@ terraform -help plan
 
 Envie um problema no repositório GitHub do produto relevante ou em https://discuss.hashicorp.com.
 
+
+## Criando estrutura padrão de pastas
+Com o Terraform instalado na sua máquina, iremos iniciar a estrutura de pastas para seguirmos no nosso projeto
+
+```
+mkdir -p portfolio/terraform
+cd portfolio/terraform
+```
+
+A pasta portfolio será a raiz para criarmos todos os documentos e projetos necessários para a solução.
+
+Já a pasta terraform, irá conter todos os arquivos necessários para criação da nossa infraestrutura.
+
+Com a nossa main.tf configurada, seguimos para os comando para de fato criar essa infraestrutura:
+
+```
+/* Formata os arquivos *.tf*/
+terraform fmt
+/* Inicia o Terraform, baixando dependências necessárias */
+terraform init
+/* Cria o plano que será executado, caso tenha algum erro, aqui será detectado */
+terraform plan
+/* Aplica o plano criado e de fato comunicar com a aws e cria a infraestrutura */
+terraform apply -auto-approve
+```
+
+
+```
+```
+
+
+
