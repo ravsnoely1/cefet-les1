@@ -23,6 +23,8 @@ Já a pasta terraform, irá conter todos os arquivos necessários para criação
 
 [Criando o bucket](https://github.com/ravsnoely1/cefet-les1/blob/main/portifolio/terraform/main.tf)
 
+As outras opções para essa configuração podem ser encontradas nesse link: [Resource: aws_s3_bucket](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#argument-reference)
+
 ## Primeiros passos com Terraform:
 
 Com a nossa main.tf configurada, seguimos para os comando para de fato criar essa infraestrutura:
