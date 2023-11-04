@@ -44,7 +44,7 @@ terraform plan
 terraform apply -auto-approve
 ```
 
-# Agora é a sua vez!
+**Agora é a sua vez!**
 
 ### Criando um projeto front-end:
 [Primeiros passos com o aplicativo Create React](https://github.com/ravsnoely1/cefet-les1/blob/main/portifolio/frontend/README.md)
