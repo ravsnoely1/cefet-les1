@@ -5,7 +5,7 @@ Um guia para a automatização de deployment com Terraform.
 Terraform é uma ferramenta DevOps da HashiCorp de código aberto. Ele permite construir, gerenciar e definir infraestrutura entre provedores de nuvem. A ferramenta Terraform, também chamada de ferramenta Infrastructure Build, permite que os desenvolvedores criem e modifiquem infraestrutura em um ambiente seguro e eficiente.
 
 ## Configuração:
-[Configurando o terraform](https://github.com/ravsnoely1/cefet-les1/blob/ravsnoely1-patch-1/portifolio/terraform/README.md#instalando-o-terraform).
+[Configurando o terraform](https://github.com/ravsnoely1/cefet-les1/blob/main/portifolio/terraform/README.md).
 
 ### Criando estrutura padrão de pastas
 Com o Terraform instalado na sua máquina, iremos iniciar a estrutura de pastas para seguirmos no nosso projeto
@@ -21,7 +21,9 @@ Já a pasta terraform, irá conter todos os arquivos necessários para criação
 
 ## Criando primeiro recurso
 
-[Criando o bucket](https://github.com/ravsnoely1/cefet-les1/blob/ravsnoely1-patch-1/portifolio/terraform/main.tf)
+[Criando o bucket](https://github.com/ravsnoely1/cefet-les1/blob/main/portifolio/terraform/main.tf)
+
+As outras opções para essa configuração podem ser encontradas nesse link: [Resource: aws_s3_bucket](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#argument-reference)
 
 ## Primeiros passos com Terraform:
 
