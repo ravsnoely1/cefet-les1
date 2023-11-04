@@ -49,12 +49,19 @@ terraform apply -auto-approve
 
 ## Referências:
 [Computação em nuvem com a AWS](https://aws.amazon.com/pt/what-is-aws/?nc1=f_cc)
+
 [Install Terraform AWS tutorial](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli?in=terraform%2Faws-get-started)
+
 [Download Terraform](https://developer.hashicorp.com/terraform/downloads)
+
 [Guia do desenvolvedor](https://docs.aws.amazon.com/pt_br/polly/latest/dg/what-is.html)
+
 [User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-set-up.html#create-an-admin)
+
 [Create IAM policies](https://developer.hashicorp.com/terraform/tutorials/aws/aws-iam-policy?_ga=2.88479007.563435615.1612186198-84933066.1612186198)
+
 [Resource: aws_s3_bucket](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#argument-reference)
+
 [Sign in AWS](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fs3.console.aws.amazon.com%2Fs3%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fs3&forceMobileApp=0&code_challenge=Nh9OaUDz4HDA7wiHymNTBZCSH-BeUWkW43xrR5WEryA&code_challenge_method=SHA-256)
 
 ## Créditos:
@@ -63,5 +70,5 @@ Esse repositório constitui o 1º projeto da disciplina Laboratório de Engenhar
 Autores:
 Rávilla Noely Dos Santos Moreira(matrícula)
 
-**Agora é a sua vez!**
+## **Agora é a sua vez!**
 
