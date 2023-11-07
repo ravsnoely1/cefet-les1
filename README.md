@@ -68,8 +68,14 @@ terraform apply -auto-approve
 Esse repositório constitui o 1º projeto da disciplina Laboratório de Engenharia de Software 1 ([Cefet-MG](https://cefetmg.br)). 
 
 Autores:
+
 Rávilla Noely Dos Santos Moreira (201512040134)
 
 Lara Loures Costa França (201712040154)
+
+Sulamita Ester Costa (20213001568)
+
+Luiz Eduardo Leroy Souza (20213002126)
+
 ## **Agora é a sua vez!**
 
