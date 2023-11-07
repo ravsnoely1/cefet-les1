@@ -7,7 +7,6 @@ resource "aws_s3_bucket" "web" {
   policy = <<POLICY
 {
   "Version": "2012-10-17",
-  "Id": "MYBUCKETPOLICY",
   "Statement": [
     {
       "Sid": "PublicReadForGetBucketObjects",
