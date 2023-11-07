@@ -69,6 +69,7 @@ Esse repositório constitui o 1º projeto da disciplina Laboratório de Engenhar
 
 Autores:
 Rávilla Noely Dos Santos Moreira (201512040134)
+
 Lara Loures Costa França (201712040154)
 ## **Agora é a sua vez!**
 
